@@ -1,1 +1,2 @@
 # Prediction-of-Startup-Success
+This repository contains the code and resources for a data science project focused on predicting the success of startups. The project utilizes various machine learning algorithms and techniques, including RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, ExtraTreesClassifier, LinearDiscriminantAnalysis, LogisticRegression, StackingClassifier, and XGBClassifier, to build a predictive model.
